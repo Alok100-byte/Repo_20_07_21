@@ -1,1 +1,2 @@
 Hello, Git
+We are making changes to understand the concept of git pull manually
